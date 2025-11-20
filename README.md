@@ -57,9 +57,12 @@ Contributions are welcome! To contribute:
 
 Fork the repository
 
-    Create a new feature branch (git checkout -b feature-name)
+     ## Create a new feature 
+        branch git checkout -b feature-name
+    
 
-Commit your changes (git commit -m "Added new feature")
+    ## Commit your changes 
+       git commit -m "Added new feature"
 
 Push to the branch (git push origin feature-name)
 
