@@ -64,9 +64,10 @@ Fork the repository
     ## Commit your changes 
        git commit -m "Added new feature"
 
-Push to the branch (git push origin feature-name)
+    ## Push to the branch 
+       git push origin feature-name
 
-Submit a pull request
+✉️ Submit a pull request
 
 
 📞Contact
